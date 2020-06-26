@@ -31,7 +31,7 @@
       "192x192": "/assets/images/products/stash/icons/android-icon-192x192.png"
     }
   },
-  "repoURL": "https://github.com/stashed/docs",
+  "repoURL": "https://github.com/appscode-cloud/docs",
   "starRepo": "stashed/stash",
   "docRepo": "stashed/docs",
   "badges": [
@@ -289,6 +289,14 @@
       "show": true
     },
     {
+      "version": "v2020.6.26",
+      "hostDocs": true,
+      "show": true,
+      "info": {
+        "catalog": "v2020.6.26"
+      }
+    },
+    {
       "version": "v0.9.0-rc.6",
       "hostDocs": true,
       "show": true,
@@ -409,7 +417,7 @@
       "show": true
     }
   ],
-  "latestVersion": "v0.9.0-rc.6",
+  "latestVersion": "v2020.6.26",
   "socialLinks": {
     "facebook": "https://facebook.com/appscode",
     "github": "https://github.com/stashed/stash",
@@ -565,6 +573,46 @@
     "stash-postgres": {
       "dir": "addons/postgres/guides",
       "mappings": [
+        {
+          "versions": [
+            "v2020.6.26"
+          ],
+          "subProjectVersions": [
+            "11.1-v1"
+          ]
+        },
+        {
+          "versions": [
+            "v2020.6.26"
+          ],
+          "subProjectVersions": [
+            "10.6-v1"
+          ]
+        },
+        {
+          "versions": [
+            "v2020.6.26"
+          ],
+          "subProjectVersions": [
+            "10.2-v1"
+          ]
+        },
+        {
+          "versions": [
+            "v2020.6.26"
+          ],
+          "subProjectVersions": [
+            "9.6-v1"
+          ]
+        },
+        {
+          "versions": [
+            "v2020.6.26"
+          ],
+          "subProjectVersions": [
+            "11.2-v1"
+          ]
+        },
         {
           "versions": [
             "v0.9.0-rc.1",

@@ -5,7 +5,7 @@
       "files": "static/files",
       "images": "static/assets/images"
     },
-    "repoURL": "https://github.com/appscode/static-assets",
+    "repoURL": "https://github.com/appscode-cloud/static-assets",
     "version": "master"
   },
   "clouds": [
